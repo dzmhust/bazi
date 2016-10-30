@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration >
+	<!-- 本地数据库jdbc驱动包路径 -->
+  <classPathEntry location="D:/Program Files (x86)/apache-maven-3.1.1/repository/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar" />
+  <!-- jdbc数据库连接配置 -->
+  <context id="OracleTables" targetRuntime="MyBatis3">
+  	<property name="mergeable" value="false"></property>
+  	
+    <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+        connectionURL="jdbc:mysql://localhost:3306/dzmsoft"
+        userId="root"
+        password="root">
+    </jdbcConnection>
+    
+    <javaTypeResolver >
+      <property name="forceBigDecimals" value="false" />
+    </javaTypeResolver>
+	<!-- targetPackage为本地实体类项目相对路径    targetProject为项目包绝对路径-->
+	
+    <javaModelGenerator targetPackage="com.dzmsoft.ucs.base.pojo" targetProject="dzmsoft-ucs-base">
+      <property name="enableSubPackages" value="true" />
+      <property name="trimStrings" value="true" />
+    </javaModelGenerator>
+
+    <sqlMapGenerator targetPackage="com.dzmsoft.ucs.base.mapping"  targetProject="dzmsoft-ucs-base">
+      <property name="enableSubPackages" value="true" />
+    </sqlMapGenerator>
+
+    <javaClientGenerator type="XMLMAPPER" targetPackage="com.dzmsoft.ucs.base.dao"  targetProject="dzmsoft-ucs-base">
+      <property name="enableSubPackages" value="true" />
+    </javaClientGenerator>
+
+	<table schema="" tableName="ucs_role_permission"></table>
+	<!--<table schema="" tableName="ucs_permission"></table>-->
+    <!--<table schema="" tableName="ucs_user"></table>
+	<table schema="" tableName="ucs_role"></table>
+	
+	<table schema="" tableName="ucs_role_permission"></table>
+	<table schema="" tableName="ucs_user"></table>
+	<table schema="" tableName="ucs_user_role"></table>-->
+	
+	
+	</context>
+</generatorConfiguration>

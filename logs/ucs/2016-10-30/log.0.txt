@@ -1,0 +1,283 @@
+10:22:33.036 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+10:22:34.059 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:22:35.360 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+10:22:36.354 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+10:22:36.387 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+10:22:36.390 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+10:22:36.403 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+10:22:36.403 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+10:22:36.404 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+10:22:36.405 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+10:22:36.405 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+10:22:36.405 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+10:22:36.405 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+10:22:36.405 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+10:22:36.406 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+10:22:36.406 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+11:57:41.900 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+11:57:42.808 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+11:57:43.906 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+11:57:44.921 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+11:57:44.954 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+11:57:44.957 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+11:57:44.971 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+11:57:44.972 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+11:57:44.973 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+11:57:44.974 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+11:57:44.974 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+11:57:44.974 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+11:57:44.974 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+11:57:44.974 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+11:57:44.975 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+11:57:44.975 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:08:22.869 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:08:23.766 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:08:24.764 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+12:08:26.004 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:08:26.038 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:08:26.041 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:08:26.058 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:08:26.059 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:08:26.061 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:08:26.062 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:08:26.062 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:08:26.062 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:08:26.062 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:08:26.062 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:08:26.062 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:08:26.063 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:09:26.171 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:09:27.116 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:09:32.987 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:09:33.019 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:09:33.023 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:09:33.043 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:09:33.044 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:09:33.045 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:09:33.048 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:09:33.048 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:09:33.048 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:09:33.049 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:09:33.049 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:09:33.050 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:09:33.051 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:10:35.852 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:10:36.772 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:10:39.014 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:10:39.050 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:10:39.053 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:10:39.070 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:10:39.071 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:10:39.072 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:10:39.072 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:10:39.072 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:10:39.072 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:10:39.073 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:10:39.073 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:10:39.073 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:10:39.073 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:30:59.218 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:31:00.145 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:31:02.363 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:31:02.403 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:31:02.405 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:31:02.424 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:31:02.424 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:31:02.425 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:31:02.426 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:31:02.427 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:31:02.427 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:31:02.427 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:31:02.427 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:31:02.427 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:31:02.428 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:33:10.026 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:33:10.985 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:33:12.292 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+12:33:13.408 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:33:13.446 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:33:13.449 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:33:13.464 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:33:13.465 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:33:13.466 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:33:13.467 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:33:13.467 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:33:13.467 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:33:13.467 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:33:13.467 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:33:13.468 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:33:13.468 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:53:46.998 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:53:47.913 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:53:50.006 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:53:50.043 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:53:50.046 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:53:50.067 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:53:50.068 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:53:50.069 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:53:50.070 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:53:50.071 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:53:50.071 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:53:50.071 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:53:50.071 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:53:50.072 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:53:50.072 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:56:07.452 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:56:08.385 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:56:09.692 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+12:56:10.554 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+12:56:10.591 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+12:56:10.593 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+12:56:10.609 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:56:10.610 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+12:56:10.611 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+12:56:10.612 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+12:56:10.612 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+12:56:10.612 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+12:56:10.613 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+12:56:10.613 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+12:56:10.613 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+12:56:10.614 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+12:56:48.309 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:56:49.282 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:56:58.103 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:56:59.328 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:57:00.309 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+12:59:11.710 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+12:59:12.953 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:59:15.292 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+13:00:30.624 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+13:00:31.551 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+13:00:33.538 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+13:00:39.258 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+13:00:39.290 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+13:00:39.292 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+13:00:39.306 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+13:00:39.307 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+13:00:39.308 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+13:00:39.309 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+13:00:39.309 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+13:00:39.309 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+13:00:39.309 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+13:00:39.309 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+13:00:39.349 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+13:00:39.349 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+13:03:36.427 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+13:03:37.365 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+13:03:38.652 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+13:14:28.427 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+13:14:29.560 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+13:14:30.649 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+13:14:32.761 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+13:14:32.801 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+13:14:32.805 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+13:14:32.824 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+13:14:32.825 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+13:14:32.826 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+13:14:32.828 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+13:14:32.828 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+13:14:32.828 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+13:14:32.828 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+13:14:32.829 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+13:14:32.829 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+13:14:32.829 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.
+13:15:06.251 INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+13:15:07.399 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+13:15:08.181 INFO  net.sf.ehcache.util.UpdateChecker - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+13:17:14.231 INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+13:17:14.266 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+13:17:14.269 INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: Thread-2
+13:17:14.287 INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+13:17:14.288 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+13:17:14.289 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+13:17:14.291 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+13:17:14.291 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+13:17:14.291 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+13:17:14.291 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+13:17:14.291 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+13:17:14.291 INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+13:17:14.292 INFO  o.a.s.s.m.AbstractValidatingSessionManager - Disabled session validation scheduler.

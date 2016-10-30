@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+	xsi:noNamespaceSchemaLocation="ehcache.xsd"  
+	updateCheck="true" monitoring="autodetect"  
+	dynamicConfig="true">  
+  
+  
+	<diskStore path="/usr/local/cache/ucscache"/>  
+	
+	<!--
+	<cacheManagerPeerProviderFactory  
+		class="net.sf.ehcache.distribution.jgroups.JGroupsCacheManagerPeerProviderFactory"  
+		properties="connect=TCP(bind_addr=192.168.1.8;bind_port=7800):  
+		TCPPING(initial_hosts=192.168.1.8[7800],192.168.1.181[7800];  
+		port_range=1;timeout=5000;num_initial_members=2):MERGE2(min_interval=3000;max_interval=5000):  
+		FD_ALL(interval=5000;timeout=20000):FD(timeout=5000;max_tries=48;):VERIFY_SUSPECT(timeout=1500):pbcast.NAKACK(use_mcast_xmit=false;retransmit_timeout=100,200,300,600,1200,2400,4800;discard_delivered_msgs=true):pbcast.STABLE(stability_delay=1000;desired_avg_gossip=20000;max_bytes=0):pbcast.GMS(print_local_addr=true;join_timeout=5000;)"  
+		propertySeparator="::"/> -->
+	
+	<!-- 登录记录缓存 锁定10分钟 -->
+	<cache name="passwordRetryEhcache"
+		maxEntriesLocalHeap="2000"
+		eternal="false"
+		timeToIdleSeconds="1800"
+		timeToLiveSeconds="3600"
+		overflowToDisk="false"
+		memoryStoreEvictionPolicy="LFU"
+		statistics="true">
+		<!--
+		<cacheEventListenerFactory class="net.sf.ehcache.distribution.jgroups.JGroupsCacheReplicatorFactory"
+			properties="replicateAsynchronously=true, replicatePuts=true,
+			replicateUpdates=true, replicateUpdatesViaCopy=false, replicateRemovals=true"/>
+			-->
+	</cache>
+	
+	<cache name="authorizationCache"
+		maxEntriesLocalHeap="2000"
+		eternal="false"
+		timeToIdleSeconds="3600"
+		timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LFU"
+		overflowToDisk="true"
+		statistics="true">
+		<!--
+		<cacheEventListenerFactory class="net.sf.ehcache.distribution.jgroups.JGroupsCacheReplicatorFactory"
+			properties="replicateAsynchronously=true, replicatePuts=true,
+			replicateUpdates=true, replicateUpdatesViaCopy=false, replicateRemovals=true"/>
+			-->
+	</cache>
+
+	<cache name="authenticationCache"
+		maxEntriesLocalHeap="2000"
+		eternal="false"
+		timeToIdleSeconds="3600"
+		timeToLiveSeconds="0"
+		overflowToDisk="false"
+		statistics="true">
+		<!--
+		<cacheEventListenerFactory class="net.sf.ehcache.distribution.jgroups.JGroupsCacheReplicatorFactory"
+			properties="replicateAsynchronously=true, replicatePuts=true,
+			replicateUpdates=true, replicateUpdatesViaCopy=false, replicateRemovals=true"/>
+			-->
+	</cache>
+
+	<cache name="shiro-activeSessionCache"
+		maxEntriesLocalHeap="2000"
+		eternal="false"
+		timeToIdleSeconds="3600"
+		timeToLiveSeconds="0"
+		overflowToDisk="false"
+		statistics="true">
+		<!--
+		<cacheEventListenerFactory class="net.sf.ehcache.distribution.jgroups.JGroupsCacheReplicatorFactory"
+			properties="replicateAsynchronously=true, replicatePuts=true,
+			replicateUpdates=true, replicateUpdatesViaCopy=false, replicateRemovals=true"/>
+			-->
+	</cache>
+	
+	<cache name="access-token-cache"
+		maxEntriesLocalHeap="2000"
+		eternal="false"
+		timeToIdleSeconds="1800"
+		timeToLiveSeconds="3600"
+		overflowToDisk="true"
+		statistics="false">
+	</cache>
+	
+	<cache name="refresh-token-cache"
+		maxEntriesLocalHeap="2000"
+		eternal="false"
+		timeToIdleSeconds="86400"
+		timeToLiveSeconds="0"
+		overflowToDisk="true"
+		statistics="false">
+	</cache>
+  
+	<defaultCache  
+		maxElementsInMemory="1000"  
+		eternal="false"  
+		timeToIdleSeconds="120"  
+		timeToLiveSeconds="120"  
+		overflowToDisk="true"  
+		maxElementsOnDisk="10000"  
+		diskSpoolBufferSizeMB="30"  
+		diskPersistent="false"  
+		diskExpiryThreadIntervalSeconds="120"  
+		memoryStoreEvictionPolicy="LRU"  
+		statistics="false"  
+		>
+		<!--
+		<cacheEventListenerFactory class="net.sf.ehcache.distribution.jgroups.JGroupsCacheReplicatorFactory"
+			properties="replicateAsynchronously=true, replicatePuts=true,
+			replicateUpdates=true, replicateUpdatesViaCopy=false, replicateRemovals=true"/>
+			-->
+		
+	</defaultCache>  
+  
+</ehcache> 
